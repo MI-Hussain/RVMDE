@@ -44,7 +44,7 @@ rvmde/
                    	     				
 ```
 
-### For Dataset Prepration use the externel repos
+### Dataset Prepration use the externel repos
 
 - Please visit external repos (https://github.com/lochenchou/DORN_radar) for Height Extension and (https://github.com/longyunf/rc-pda) for RVMDE with MER's generating to evaluate this repo.
 
