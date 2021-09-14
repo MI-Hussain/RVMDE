@@ -25,7 +25,7 @@ nuscenes-devkit
 ```
 ## Dataset
 
-- Download [nuScenes dataset](https://www.nuscenes.org/) (Full dataset (v1.0)) into data/nuscenes/
+Download [nuScenes dataset](https://www.nuscenes.org/) (Full dataset (v1.0)) into data/nuscenes/
 
 ## Directories
 ```plain
@@ -46,7 +46,7 @@ rvmde/
 
 ### Dataset Prepration use the externel repos
 
-- Please visit external repos (https://github.com/lochenchou/DORN_radar) for Height Extension and (https://github.com/longyunf/rc-pda) for RVMDE with MER's generating to evaluate this repo.
+Please follow external repos (https://github.com/lochenchou/DORN_radar) for Height Extension and (https://github.com/longyunf/rc-pda) for RVMDE with MER's to generte the dataset for training and evaluation.
 
 ### Evaluation for RVMDE on nuScenes
 
