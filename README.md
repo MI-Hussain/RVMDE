@@ -58,7 +58,6 @@ Modifying dataset path in `valid_loader.py`, evalutation list path in `data_load
 For evaluation on interms of day,night,rain change the list path first. The evaluation lists are saved in .\list directory.
 
 ``` bash
-jupyter notebook
 Evaluate_rvmde.ipynb     #Test
 ```
 
