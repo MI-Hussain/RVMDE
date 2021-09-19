@@ -58,7 +58,7 @@ Modifying dataset path in `valid_loader.py`, evalutation list path in `data_load
 For evaluation of day,night,rain change the list path first. The evaluation lists are saved in .\list directory.
 
 ``` bash
-Evaluate_rvmde.ipynb                  #Evaluation
+Evaluation_rvmde.ipynb                  #Evaluation
 ```
 
 ### Evaluation for RVMDE with MERs on nuScenes
