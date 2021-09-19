@@ -55,15 +55,22 @@ Download [pre-trained weights](https://drive.google.com/file/d/1VKVg63d5UMNjc2bu
 
 Modifying dataset path in `valid_loader.py`, evalutation list path in `data_loader.py`, pretrained_weights path in Evalutation_rvmde.py file to evalute. 
 
-For evaluation on interms of day,night,rain change the list path first. The evaluation lists are saved in .\list directory.
+For evaluation of day,night,rain change the list path first. The evaluation lists are saved in .\list directory.
 
 ``` bash
-Evaluate_rvmde.ipynb     #Test
+Evaluate_rvmde.ipynb                  #Evaluation
 ```
 
-#RVMDE with MER's Evalution
+#### Evaluation for RVMDE with MERs on nuScenes
 
-Will be updated soon!!!
+Please visit this work (https://github.com/longyunf/rc-pda) for detail information of data prepration of training and evaluation sets. 
+
+Download [pre-trained RVMDE with MERs weights](https://drive.google.com/file/d/1AOFOnXd6USSb8-kYzGAtxI9gUdPfl15m/view?usp=sharing)
+
+
+``` bash
+Evaluation_RVMDE_with_MERS.ipynb      #Evaluation
+```
 
 ## Citation
 ```plain
