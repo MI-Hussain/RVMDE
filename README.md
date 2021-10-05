@@ -98,8 +98,6 @@ The following works have been used by RVMDE:
   booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, 
   title={Depth Estimation From Monocular Images And Sparse Radar Using Deep Ordinal Regression Network}, 
   year={2021},
-  volume={},
-  number={},
   pages={3343-3347},
   doi={10.1109/ICIP42928.2021.9506550}
 }
