@@ -80,7 +80,8 @@ Evaluation_RVMDE_with_MERS.ipynb      #Evaluation
     journal={arXiv:2109.05265v1},
     year={2021}
 }
-
+---
+## References
 The following works have been used by RVMDE:
 
   ~~~
@@ -101,4 +102,4 @@ The following works have been used by RVMDE:
   pages={3343-3347},
   doi={10.1109/ICIP42928.2021.9506550}
 }
-```
+  ~~~
