@@ -80,4 +80,34 @@ Evaluation_RVMDE_with_MERS.ipynb      #Evaluation
     journal={arXiv:2109.05265v1},
     year={2021}
 }
+
+The following works have been used by RVMDE:
+
+  ~~~
+@InProceedings{Long_2021_CVPR,
+    author    = {Long, Yunfei and Morris, Daniel and Liu, Xiaoming and Castro, Marcos and Chakravarty, Punarjay and Narayanan, Praveen},
+    title     = {Radar-Camera Pixel Depth Association for Depth Completion},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {12507-12516}
+}
+@InProceedings{Long_2021_CVPR,
+    author    = {Long, Yunfei and Morris, Daniel and Liu, Xiaoming and Castro, Marcos and Chakravarty, Punarjay and Narayanan, Praveen},
+    title     = {Radar-Camera Pixel Depth Association for Depth Completion},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {12507-12516}
+}
+@INPROCEEDINGS{9506550,
+  author={Lo, Chen-Chou and Vandewalle, Patrick},
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Depth Estimation From Monocular Images And Sparse Radar Using Deep Ordinal Regression Network}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={3343-3347},
+  doi={10.1109/ICIP42928.2021.9506550}
+}
 ```
