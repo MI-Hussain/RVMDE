@@ -80,11 +80,12 @@ Evaluation_RVMDE_with_MERS.ipynb      #Evaluation
     journal={arXiv:2109.05265v1},
     year={2021}
 }
----
+```
 ## References
 The following works have been used by RVMDE:
 
   ~~~
+
 @InProceedings{Long_2021_CVPR,
     author    = {Long, Yunfei and Morris, Daniel and Liu, Xiaoming and Castro, Marcos and Chakravarty, Punarjay and Narayanan, Praveen},
     title     = {Radar-Camera Pixel Depth Association for Depth Completion},
